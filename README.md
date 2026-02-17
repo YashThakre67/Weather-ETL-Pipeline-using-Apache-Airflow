@@ -25,7 +25,7 @@ Commits the transaction to save changes.
 
 
 Step 1: Import Necessary Libraries
-===============
+===========
 Apache Airflow: For task orchestration,  
 HttpHook: To fetch data from the Open-Meteo API,  
 PostgresHook: To connect and interact with PostgreSQL,  
